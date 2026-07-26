@@ -1,0 +1,6 @@
+{
+  "name": "Memory Duel",
+  "description": "Premium Memory Card Matching Game with modern dark UI, multiple game modes, bot AI, themes, stats, and achievements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
